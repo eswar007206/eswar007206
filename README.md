@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero-banner.png" alt="NorthNode — Beyond Intelligence" width="100%"/>
+  <img src="./assets/hero-banner.webp" alt="NorthNode — Beyond Intelligence" width="100%"/>
 </p>
 
 <p align="center">
@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/System_Design-Architect-0F172A?style=for-the-badge&labelColor=1D4ED8"/>
   <img src="https://img.shields.io/badge/Founder_%26_CEO-NorthNode-1D4ED8?style=for-the-badge&labelColor=0F172A"/>
   <img src="https://img.shields.io/badge/Lead-Developer-2563EB?style=for-the-badge&labelColor=0F172A"/>
-  <img src="https://img.shields.io/badge/Product-Architect-3B82F6?style=for-the-badge&labelColor=0F172A"/>
 </p>
 
 <p align="center">
@@ -19,20 +19,29 @@
   <a href="https://github.com/eswar007206">
     <img src="https://img.shields.io/badge/GitHub-eswar007206-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/eswar-n-86b862311">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/eswar-n/">
+    <img src="https://img.shields.io/badge/LinkedIn-eswar-n-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/eswar_sonu">
+    <img src="https://img.shields.io/badge/Instagram-eswar_sonu-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/northnode.live/">
-    <img src="https://img.shields.io/badge/Instagram-northnode.live-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:support@northnode.live">
-    <img src="https://img.shields.io/badge/Email-support%40northnode.live-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-northnode.live-C13584?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3500&pause=900&color=3B82F6&center=true&vCenter=true&width=920&lines=Building+GamiBar+%C2%B7+Abhyas+%C2%B7+EduXam+%C2%B7+EduTrack;Leading+client+products+across+EdTech+%26+HealthTech;Full+Stack+%C2%B7+System+Design+%C2%B7+AI;Incubated+at+Garden+City+University">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3500&pause=900&color=3B82F6&center=true&vCenter=true&width=920&lines=Building+GamiBar+%C2%B7+Abhyas+%C2%B7+EduXam+%C2%B7+EduTrack;Leading+client+products+across+EdTech+%26+HealthTech;Full+Stack+%C2%B7+System+Design+%C2%B7+AI;Incubated+at+Garden+City+University" alt="Typing headline"/>
+  <a href="mailto:nalamalaeswar@gmail.com">
+    <img src="https://img.shields.io/badge/Personal-nalamalaeswar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="mailto:support@northnode.live">
+    <img src="https://img.shields.io/badge/NorthNode-support%40northnode.live-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3500&pause=900&color=3B82F6&center=true&vCenter=true&width=920&lines=I+plan+the+system+design+for+every+app+we+ship;Building+GamiBar+%C2%B7+Abhyas+%C2%B7+EduXam+%C2%B7+EduTrack;Foreign+client+projects+%C2%B7+AR+indoor+navigation+%C2%B7+Mattercraft;Incubated+at+Garden+City+University">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3500&pause=900&color=3B82F6&center=true&vCenter=true&width=920&lines=I+plan+the+system+design+for+every+app+we+ship;Building+GamiBar+%C2%B7+Abhyas+%C2%B7+EduXam+%C2%B7+EduTrack;Foreign+client+projects+%C2%B7+AR+indoor+navigation+%C2%B7+Mattercraft;Incubated+at+Garden+City+University" alt="Typing headline"/>
   </a>
 </p>
 
@@ -53,6 +62,8 @@
 
 I am **Eswar N**, Founder &amp; CEO of [**NorthNode**](https://northnode.live) — a technology company incubated at **Garden City University**, Bengaluru. I lead product architecture and development across EdTech, SaaS, healthcare, and AI-powered platforms.
 
+**System design is my core strength** — I plan and architect the system design for every app we build at NorthNode, from EduTrack to GamiBar and every client platform we deliver. Architecture, data flow, scalability, and how systems actually run in production — that's what I own before code ships.
+
 NorthNode exists to build intelligent systems that institutions can actually run: examinations, learning, classroom engagement, physiotherapy care, and custom digital products for partners.
 
 <table>
@@ -60,10 +71,12 @@ NorthNode exists to build intelligent systems that institutions can actually run
     <td>
       <blockquote>
         <p>🏢 <strong>Founder &amp; CEO</strong> @ NorthNode Technologies</p>
-        <p>🧠 I lead architecture, product, and engineering for every NorthNode platform</p>
+        <p>🧩 <strong>System design architect</strong> — I plan the architecture for every NorthNode product and client delivery</p>
+        <p>🧠 I lead architecture, product, and engineering across our full product lineup</p>
         <p>🎓 B.Tech CSE — Robotics @ Garden City University (2024–2028)</p>
         <p>📍 Garden City University, Battarahalli, Bengaluru</p>
-        <p>🌐 <a href="https://northnode.live">northnode.live</a> · <a href="mailto:support@northnode.live">support@northnode.live</a> · +91 63033 92391</p>
+        <p>📧 <a href="mailto:nalamalaeswar@gmail.com">nalamalaeswar@gmail.com</a> · <a href="mailto:support@northnode.live">support@northnode.live</a> · +91 63033 92391</p>
+        <p>🌐 <a href="https://northnode.live">northnode.live</a> · <a href="https://www.linkedin.com/in/eswar-n/">LinkedIn</a> · <a href="https://www.instagram.com/eswar_sonu">Instagram</a></p>
       </blockquote>
     </td>
   </tr>
@@ -76,11 +89,33 @@ NorthNode exists to build intelligent systems that institutions can actually run
 </p>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=64&section=header&text=Before%20NorthNode&color=gradient&fontSize=38&fontAlignY=42&animation=fadeIn" width="100%"/>
+</p>
+
+Before founding NorthNode, I already had a strong track record shipping for clients outside India and building in emerging tech stacks.
+
+<table>
+  <tr>
+    <td>
+      <blockquote>
+        <p>🌍 <strong>Foreign client projects</strong> — delivered multiple projects for international clients before NorthNode, across web products, custom builds, and production-grade software</p>
+        <p>🧭 <strong>AR internship</strong> — worked on <strong>indoor navigation with AR</strong> using <strong>Mattercraft</strong> (Zap Works), building spatial experiences and navigation flows in augmented reality</p>
+        <p>⚙️ That foundation — client delivery, AR, and system thinking — is what I brought into every NorthNode product today</p>
+      </blockquote>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=48&section=footer&color=0:1D4ED8,100:3B82F6&animation=twinkling" width="100%"/>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&height=64&section=header&text=NorthNode&color=gradient&fontSize=42&fontAlignY=42&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="./assets/northnode-card-hero.png" alt="NorthNode — Beyond Intelligence" width="340"/>
+  <img src="./assets/northnode-card-hero.webp" alt="NorthNode — Beyond Intelligence" width="340"/>
 </p>
 
 <p align="center">
@@ -95,14 +130,14 @@ NorthNode exists to build intelligent systems that institutions can actually run
   <a href="https://www.instagram.com/northnode.live/">Instagram</a>
 </p>
 
-NorthNode is a technology-driven company building intelligent digital products across education, healthcare, and enterprise workflows. I founded the company, lead it as CEO, and personally lead development of our products and client platforms.
+NorthNode is a technology-driven company building intelligent digital products across education, healthcare, and enterprise workflows. I founded the company, lead it as CEO, and personally architect the system design and development of our products and client platforms.
 
 We are proudly incubated at **Garden City University Incubation Foundation**.
 
 <p align="center">
-  <a href="https://www.gardencity.university/"><img src="./assets/cards/gcu-card.png" alt="Garden City University" height="88"/></a>
+  <a href="https://www.gardencity.university/"><img src="./assets/cards/gcu-card.webp" alt="Garden City University" height="88"/></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/showcase/gcuifdn/"><img src="./assets/cards/gcu-incubation-card.png" alt="GCU Incubation Center" height="88"/></a>
+  <a href="https://www.linkedin.com/showcase/gcuifdn/"><img src="./assets/cards/gcu-incubation-card.webp" alt="GCU Incubation Center" height="88"/></a>
 </p>
 
 <p align="center">
@@ -113,13 +148,13 @@ We are proudly incubated at **Garden City University Incubation Foundation**.
   <img src="https://capsule-render.vercel.app/api?type=soft&height=64&section=header&text=Products%20I%20built%20%26%20lead&color=gradient&fontSize=38&fontAlignY=42&animation=fadeIn" width="100%"/>
 </p>
 
-The path started with **EduTrack** for students around me. It grew into NorthNode — and into a lineup of platforms I still lead end-to-end.
+The path started with **EduTrack** for students around me. It grew into NorthNode — and into a lineup of platforms I still architect and lead end-to-end. **I plan the system design for every one of these.**
 
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://edutrackonline.online">
-        <img src="./assets/cards/edutrack-card.png" alt="EduTrack" width="96%"/>
+        <img src="./assets/cards/edutrack-card.webp" alt="EduTrack" width="96%"/>
       </a>
       <br/><br/>
       <strong>EduTrack</strong><br/>
@@ -135,7 +170,7 @@ The path started with **EduTrack** for students around me. It grew into NorthNod
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://eduxam.in">
-        <img src="./assets/cards/eduxam-card.png" alt="EduXam" width="96%"/>
+        <img src="./assets/cards/eduxam-card.webp" alt="EduXam" width="96%"/>
       </a>
       <br/><br/>
       <strong>EduXam</strong><br/>
@@ -153,7 +188,7 @@ The path started with **EduTrack** for students around me. It grew into NorthNod
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://abhyasexams.in">
-        <img src="./assets/cards/abhyas-card.png" alt="Abhyas" width="96%"/>
+        <img src="./assets/cards/abhyas-card.webp" alt="Abhyas" width="96%"/>
       </a>
       <br/><br/>
       <strong>Abhyas</strong><br/>
@@ -168,7 +203,7 @@ The path started with **EduTrack** for students around me. It grew into NorthNod
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://gamibar.com">
-        <img src="./assets/cards/gamibar-card.png" alt="GamiBar" width="96%"/>
+        <img src="./assets/cards/gamibar-card.webp" alt="GamiBar" width="96%"/>
       </a>
       <br/><br/>
       <strong>GamiBar</strong><br/>
@@ -193,13 +228,13 @@ The path started with **EduTrack** for students around me. It grew into NorthNod
   <img src="https://capsule-render.vercel.app/api?type=soft&height=64&section=header&text=Client%20products%20I%20lead&color=gradient&fontSize=38&fontAlignY=42&animation=fadeIn" width="100%"/>
 </p>
 
-I lead development for NorthNode client platforms — architecture, engineering, and delivery. These are live partnerships, not side experiments.
+I architect and lead development for NorthNode client platforms — system design, engineering, and delivery. These are live partnerships, not side experiments.
 
 <table>
   <tr>
     <td width="25%" align="center" valign="top">
       <a href="https://physioflexstudio-website.onrender.com/">
-        <img src="./assets/cards/physioflex-card.png" alt="PhysioFlex Studio" width="95%"/>
+        <img src="./assets/cards/physioflex-card.webp" alt="PhysioFlex Studio" width="95%"/>
       </a>
       <br/>
       <strong>PhysioFlex Studio</strong><br/>
@@ -208,7 +243,7 @@ I lead development for NorthNode client platforms — architecture, engineering,
     </td>
     <td width="25%" align="center" valign="top">
       <a href="https://corpergo.in/">
-        <img src="./assets/cards/corpergo-card.png" alt="CorpErgo" width="95%"/>
+        <img src="./assets/cards/corpergo-card.webp" alt="CorpErgo" width="95%"/>
       </a>
       <br/>
       <strong>CorpErgo</strong><br/>
@@ -217,7 +252,7 @@ I lead development for NorthNode client platforms — architecture, engineering,
     </td>
     <td width="25%" align="center" valign="top">
       <a href="https://singularisfamilyoffice.com/">
-        <img src="./assets/cards/singularis-card.png" alt="Singularis Wealth" width="95%"/>
+        <img src="./assets/cards/singularis-card.webp" alt="Singularis Wealth" width="95%"/>
       </a>
       <br/>
       <strong>Singularis Wealth</strong><br/>
@@ -226,7 +261,7 @@ I lead development for NorthNode client platforms — architecture, engineering,
     </td>
     <td width="25%" align="center" valign="top">
       <a href="https://apitherapyindia.org/">
-        <img src="./assets/cards/apitherapy-card.png" alt="Apitherapy Association of India" width="95%"/>
+        <img src="./assets/cards/apitherapy-card.webp" alt="Apitherapy Association of India" width="95%"/>
       </a>
       <br/>
       <strong>Apitherapy (AAI)</strong><br/>
@@ -237,7 +272,7 @@ I lead development for NorthNode client platforms — architecture, engineering,
   <tr>
     <td width="25%" align="center" valign="top">
       <a href="https://swarnmadhuhoney.com/">
-        <img src="./assets/cards/swarn-madhu-card.png" alt="Swarn Madhu Honey" width="95%"/>
+        <img src="./assets/cards/swarn-madhu-card.webp" alt="Swarn Madhu Honey" width="95%"/>
       </a>
       <br/>
       <strong>Swarn Madhu</strong><br/>
@@ -245,14 +280,14 @@ I lead development for NorthNode client platforms — architecture, engineering,
       <a href="https://swarnmadhuhoney.com/">swarnmadhuhoney.com →</a>
     </td>
     <td width="25%" align="center" valign="top">
-      <img src="./assets/cards/srivani-card.png" alt="Sri Vani Academy" width="95%"/>
+      <img src="./assets/cards/srivani-card.webp" alt="Sri Vani Academy" width="95%"/>
       <br/>
       <strong>Sri Vani Academy</strong><br/>
       Education partner
     </td>
     <td width="25%" align="center" valign="top">
       <a href="https://www.theretirementproject.com/">
-        <img src="./assets/cards/retirement-card.png" alt="The Retirement Project" width="95%"/>
+        <img src="./assets/cards/retirement-card.webp" alt="The Retirement Project" width="95%"/>
       </a>
       <br/>
       <strong>The Retirement Project</strong><br/>
@@ -261,7 +296,7 @@ I lead development for NorthNode client platforms — architecture, engineering,
     </td>
     <td width="25%" align="center" valign="top">
       <a href="https://www.gardencity.university/">
-        <img src="./assets/cards/gcu-card.png" alt="Garden City University" width="95%"/>
+        <img src="./assets/cards/gcu-card.webp" alt="Garden City University" width="95%"/>
       </a>
       <br/>
       <strong>Garden City University</strong><br/>
@@ -302,6 +337,13 @@ I lead development for NorthNode client platforms — architecture, engineering,
   <img src="https://img.shields.io/badge/BullMQ-Queues-FF6B6B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Judge0-Assessments-1D4ED8?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/OpenRouter-AI-8B5CF6?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/System_Design-Architecture-0F172A?style=for-the-badge&labelColor=1D4ED8"/>
+  <img src="https://img.shields.io/badge/Mattercraft-AR_%26_3D-FF6B35?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AR-Indoor_Navigation-8B5CF6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Zap_Works-WebAR-00C4B4?style=for-the-badge"/>
 </p>
 
 <p align="center">
@@ -357,8 +399,10 @@ If you are an institution, founder, or operator who needs software that actually
 
 <p align="center">
   <a href="https://northnode.live"><img src="https://img.shields.io/badge/Website-northnode.live-1D4ED8?style=for-the-badge"/></a>
-  <a href="mailto:support@northnode.live"><img src="https://img.shields.io/badge/Email-support%40northnode.live-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/eswar-n-86b862311"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:nalamalaeswar@gmail.com"><img src="https://img.shields.io/badge/Personal-nalamalaeswar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:support@northnode.live"><img src="https://img.shields.io/badge/NorthNode-support%40northnode.live-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/eswar-n/"><img src="https://img.shields.io/badge/LinkedIn-eswar-n-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/eswar_sonu"><img src="https://img.shields.io/badge/Instagram-eswar_sonu-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://github.com/NorthNodeTech"><img src="https://img.shields.io/badge/Org-NorthNodeTech-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
