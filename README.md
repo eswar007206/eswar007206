@@ -32,7 +32,28 @@ I love doing system design — architecture, data flow, APIs, databases, and bac
 
 ## Areas of Expertise
 
-`System Design` `Scalable Backend Architecture` `Backend Architecture Building` `API Architecture` `Database Architecture` `Full-Stack Engineering` `AI-powered Applications` `EdTech Platforms` `SaaS Products` `Product Engineering` `Technical Problem Solving`
+<table>
+  <tr>
+    <td>System Design</td>
+    <td>Scalable Backend Architecture</td>
+    <td>Backend Architecture Building</td>
+  </tr>
+  <tr>
+    <td>API Architecture</td>
+    <td>Database Architecture</td>
+    <td>Full-Stack Engineering</td>
+  </tr>
+  <tr>
+    <td>AI-powered Applications</td>
+    <td>EdTech Platforms</td>
+    <td>SaaS Products</td>
+  </tr>
+  <tr>
+    <td>Product Engineering</td>
+    <td>Technical Problem Solving</td>
+    <td></td>
+  </tr>
+</table>
 
 </td>
 </tr>
@@ -323,22 +344,15 @@ Secured 2nd place among 95 participants. Also received Most Liked LinkedIn Post 
 
 ## GitHub Stats
 
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eswar007206&theme=github_dark"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eswar007206&theme=default"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eswar007206&theme=github_dark" alt="GitHub stats"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eswar007206&theme=github_dark"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eswar007206&theme=default"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eswar007206&theme=github_dark" alt="Productive time"/>
-  </picture>
-</p>
-
-<p>
-  <img src="https://ghchart.rshah.org/3fb950/eswar007206" alt="GitHub contribution graph"/>
-</p>
+| | |
+| --- | --- |
+| **Projects** | 27 public repositories |
+| **Contributions** | 1,121 |
+| **This year** | 836 |
+| **Started on** | 28 Aug 2024 |
+| **Highest in a day** | 95 contributions (7 Jun 2026) |
+| **Longest streak** | 7 days |
+| **Active days** | 155 |
 
 B.Tech CSE — Robotics @ Garden City University, Bengaluru.
 
