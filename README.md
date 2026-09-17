@@ -214,8 +214,8 @@ Started freelancing at 19 and delivered four production-ready projects for inter
     <tr>
       <td align="center"><img src="./assets/skills/gemini.svg" width="22" height="22" alt="Gemini"/><br/>Gemini</td>
       <td align="center"><img src="./assets/skills/resend.svg" width="22" height="22" alt="Resend"/><br/>Resend</td>
+      <td align="center"><img src="./assets/skills/razorpay.svg" width="22" height="22" alt="Razorpay"/><br/>Razorpay</td>
       <td align="center"><img src="./assets/skills/render.svg" width="22" height="22" alt="Render"/><br/>Render</td>
-      <td></td>
     </tr>
   </table>
 </td>
@@ -252,7 +252,11 @@ Started freelancing at 19 and delivered four production-ready projects for inter
       <td align="center"><img src="./assets/skills/react.svg" width="22" height="22" alt="React"/><br/>React</td>
       <td align="center"><img src="./assets/skills/typescript.svg" width="22" height="22" alt="TypeScript"/><br/>TypeScript</td>
       <td align="center"><img src="./assets/skills/nodejs.svg" width="22" height="22" alt="Node.js"/><br/>Node.js</td>
+    </tr>
+    <tr>
       <td align="center"><img src="./assets/skills/supabase.svg" width="22" height="22" alt="Supabase"/><br/>Supabase</td>
+      <td align="center"><img src="./assets/skills/razorpay.svg" width="22" height="22" alt="Razorpay"/><br/>Razorpay</td>
+      <td></td>
     </tr>
   </table>
 </td>
@@ -311,6 +315,7 @@ Started freelancing at 19 and delivered four production-ready projects for inter
       <td align="center"><img src="./assets/skills/react.svg" width="22" height="22" alt="React"/><br/>React</td>
       <td align="center"><img src="./assets/skills/typescript.svg" width="22" height="22" alt="TypeScript"/><br/>TypeScript</td>
       <td align="center"><img src="./assets/skills/supabase.svg" width="22" height="22" alt="Supabase"/><br/>Supabase</td>
+      <td align="center"><img src="./assets/skills/payu.svg" width="22" height="22" alt="PayU"/><br/>PayU</td>
     </tr>
   </table>
 </td>
