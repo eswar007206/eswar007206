@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td width="38%" valign="top">
-  <img src="./assets/eswar.png" width="280" alt="Eswar N"/>
+  <img src="./assets/eswar.jpeg" width="280" alt="Eswar N"/>
   <br/><br/>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nalamalaeswar@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" height="36" width="36" alt="Email"/></a>
   &nbsp;
