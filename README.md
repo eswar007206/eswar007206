@@ -176,8 +176,8 @@ Started freelancing at 19 and delivered four production-ready projects for inter
   React · Next.js · Python · FastAPI · Supabase · PostgreSQL · Redis · AI / LLM APIs
 </td>
 <td width="50%" valign="top">
-  <a href="https://gamibar.com"><img src="./assets/logos/gamifytl.webp" height="52" alt="GamifyTL"/></a><br/>
-  <strong><a href="https://gamibar.com">GamifyTL</a></strong> · NorthNode Product<br/>
+  <a href="https://gamifytl.com/"><img src="./assets/logos/gamifytl.webp" height="52" alt="GamifyTL"/></a><br/>
+  <strong><a href="https://gamifytl.com/">GamifyTL</a></strong> · NorthNode Product<br/>
   Gamified Classroom &amp; Live Session Platform<br/>
   <em>Founder &amp; CEO / Product &amp; Technical Lead</em>
   <ul>
@@ -214,8 +214,8 @@ Started freelancing at 19 and delivered four production-ready projects for inter
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <img src="./assets/logos/physioflex.webp" height="52" alt="PhysioFlex Studio"/><br/>
-  <strong>PhysioFlex Studio</strong> · NorthNode Product<br/>
+  <a href="https://physioflexstudio-website.onrender.com/"><img src="./assets/logos/physioflex.webp" height="52" alt="PhysioFlex Studio"/></a><br/>
+  <strong><a href="https://physioflexstudio-website.onrender.com/">PhysioFlex Studio</a></strong> · NorthNode Product<br/>
   Healthcare &amp; Physiotherapy Technology Platform<br/>
   <em>Founder &amp; CEO / Technical Lead</em>
   <ul>
@@ -225,8 +225,8 @@ Started freelancing at 19 and delivered four production-ready projects for inter
   React · FastAPI · Supabase · PostgreSQL
 </td>
 <td width="50%" valign="top">
-  <img src="./assets/logos/singularis.webp" height="52" alt="Singularis Wealth"/><br/>
-  <strong>Singularis Wealth</strong> · NorthNode Product<br/>
+  <a href="https://singularisfamilyoffice.com/"><img src="./assets/logos/singularis.webp" height="52" alt="Singularis Wealth"/></a><br/>
+  <strong><a href="https://singularisfamilyoffice.com/">Singularis Wealth</a></strong> · NorthNode Product<br/>
   Wealth &amp; Financial Services Digital Platform<br/>
   <em>Founder &amp; CEO / System Architect</em>
   <ul>
@@ -238,8 +238,8 @@ Started freelancing at 19 and delivered four production-ready projects for inter
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <img src="./assets/logos/gcu-physiocare.webp" height="52" alt="GCU Physiocare"/><br/>
-  <strong>GCU Physiocare</strong> · NorthNode Product<br/>
+  <a href="https://physiocare.gardencity.university/"><img src="./assets/logos/gcu-physiocare.webp" height="52" alt="GCU Physiocare"/></a><br/>
+  <strong><a href="https://physiocare.gardencity.university/">GCU Physiocare</a></strong> · NorthNode Product<br/>
   University Physiotherapy &amp; Wellness Platform<br/>
   <em>Founder &amp; CEO / System Architect</em>
   <ul>
@@ -248,8 +248,8 @@ Started freelancing at 19 and delivered four production-ready projects for inter
   React · Supabase · PostgreSQL
 </td>
 <td width="50%" valign="top">
-  <img src="./assets/logos/swarn-madhu.webp" height="52" alt="Swarn Madhu"/><br/>
-  <strong>Swarn Madhu</strong> · NorthNode Product<br/>
+  <a href="https://swarnmadhuhoney.com/"><img src="./assets/logos/swarn-madhu.webp" height="52" alt="Swarn Madhu"/></a><br/>
+  <strong><a href="https://swarnmadhuhoney.com/">Swarn Madhu</a></strong> · NorthNode Product<br/>
   Health &amp; Wellness Digital Ecosystem<br/>
   <em>Founder &amp; CEO / Architecture Support</em>
   <ul>
@@ -260,8 +260,8 @@ Started freelancing at 19 and delivered four production-ready projects for inter
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <img src="./assets/logos/corp-egro.webp" height="52" alt="Corp Egro"/><br/>
-  <strong>Corp Egro</strong> · NorthNode Product<br/>
+  <a href="https://corpergo.in/"><img src="./assets/logos/corp-egro.webp" height="52" alt="Corp Egro"/></a><br/>
+  <strong><a href="https://corpergo.in/">Corp Egro</a></strong> · NorthNode Product<br/>
   Enterprise Workflow &amp; Business Modernization<br/>
   <em>Founder &amp; CEO / Architecture Support</em>
   <ul>
@@ -270,8 +270,8 @@ Started freelancing at 19 and delivered four production-ready projects for inter
   React · Supabase · Node.js
 </td>
 <td width="50%" valign="top">
-  <img src="./assets/logos/apitherapy.webp" height="52" alt="Apitherapy"/><br/>
-  <strong>Apitherapy</strong> · NorthNode Product<br/>
+  <a href="https://apitherapyindia.org/"><img src="./assets/logos/apitherapy.webp" height="52" alt="Apitherapy"/></a><br/>
+  <strong><a href="https://apitherapyindia.org/">Apitherapy</a></strong> · NorthNode Product<br/>
   Healthcare &amp; Bee Therapy Wellness Partnership<br/>
   <em>Founder &amp; CEO / Technical Advisory</em>
   <ul>
@@ -282,8 +282,8 @@ Started freelancing at 19 and delivered four production-ready projects for inter
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <img src="./assets/logos/retirement.webp" height="52" alt="The Retirement Project"/><br/>
-  <strong>The Retirement Project</strong> · NorthNode Product<br/>
+  <a href="https://www.theretirementproject.com/"><img src="./assets/logos/retirement.webp" height="52" alt="The Retirement Project"/></a><br/>
+  <strong><a href="https://www.theretirementproject.com/">The Retirement Project</a></strong> · NorthNode Product<br/>
   Purpose-Driven Wellness &amp; Life Planning Platform<br/>
   <em>Founder &amp; CEO / System Architect</em>
   <ul>
@@ -317,7 +317,7 @@ Started freelancing at 19 and delivered four production-ready projects for inter
   React · Python · yt-dlp · YouTube Data API
 </td>
 <td width="50%" valign="top">
-  <strong>FeverEase</strong> · Hackathon<br/>
+  <strong><a href="https://devpost.com/software/feverease-connecting-patients-to-care-through-ai">FeverEase</a></strong> · Hackathon<br/>
   AI-powered Healthcare Prototype<br/>
   <em>Selected All-India for the Microlabs Hackathon</em>
   <ul>
@@ -348,7 +348,7 @@ Secured 2nd place among 95 participants. Also received Most Liked LinkedIn Post 
 | --- | --- |
 | **Projects** | 27 public repositories |
 | **Contributions** | 1,121 |
-| **This year** | 836 |
+| **Last 365 days** | 1,013 |
 | **Started on** | 28 Aug 2024 |
 | **Highest in a day** | 95 contributions (7 Jun 2026) |
 | **Longest streak** | 7 days |
