@@ -173,7 +173,20 @@ Started freelancing at 19 and delivered four production-ready projects for inter
     <li>Worked on career guidance, verified student skill profiles, and recruiter workflows.</li>
     <li>Designed backend and infrastructure architecture.</li>
   </ul>
-  React · Next.js · Python · FastAPI · Supabase · PostgreSQL · Redis · AI / LLM APIs
+  <table>
+    <tr>
+      <td align="center"><img src="./assets/skills/react.svg" width="22" height="22" alt="React"/><br/>React</td>
+      <td align="center"><img src="./assets/skills/nextjs.svg" width="22" height="22" alt="Next.js"/><br/>Next.js</td>
+      <td align="center"><img src="./assets/skills/python.svg" width="22" height="22" alt="Python"/><br/>Python</td>
+      <td align="center"><img src="./assets/skills/fastapi.svg" width="22" height="22" alt="FastAPI"/><br/>FastAPI</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="./assets/skills/supabase.svg" width="22" height="22" alt="Supabase"/><br/>Supabase</td>
+      <td align="center"><img src="./assets/skills/postgresql.svg" width="22" height="22" alt="PostgreSQL"/><br/>PostgreSQL</td>
+      <td align="center"><img src="./assets/skills/redis.svg" width="22" height="22" alt="Redis"/><br/>Redis</td>
+      <td align="center"><img src="./assets/skills/llm.svg" width="22" height="22" alt="LLMs"/><br/>LLMs</td>
+    </tr>
+  </table>
 </td>
 <td width="50%" valign="top">
   <a href="https://gamifytl.com/"><img src="./assets/logos/gamifytl.webp" height="52" alt="GamifyTL"/></a><br/>
@@ -185,7 +198,13 @@ Started freelancing at 19 and delivered four production-ready projects for inter
     <li>Built gamified games and session tools for teachers, speakers, and learners.</li>
     <li>Worked on UI/UX, designed application architecture, and developed the platform.</li>
   </ul>
-  React · JavaScript · Supabase
+  <table>
+    <tr>
+      <td align="center"><img src="./assets/skills/react.svg" width="22" height="22" alt="React"/><br/>React</td>
+      <td align="center"><img src="./assets/skills/javascript.svg" width="22" height="22" alt="JavaScript"/><br/>JavaScript</td>
+      <td align="center"><img src="./assets/skills/supabase.svg" width="22" height="22" alt="Supabase"/><br/>Supabase</td>
+    </tr>
+  </table>
 </td>
 </tr>
 <tr>
@@ -198,7 +217,18 @@ Started freelancing at 19 and delivered four production-ready projects for inter
     <li>Architected student workspace, campus tools, and academic tracking engines.</li>
     <li>Designed schedule management and student productivity workflows.</li>
   </ul>
-  React · Next.js · FastAPI · Supabase · PostgreSQL
+  <table>
+    <tr>
+      <td align="center"><img src="./assets/skills/react.svg" width="22" height="22" alt="React"/><br/>React</td>
+      <td align="center"><img src="./assets/skills/nextjs.svg" width="22" height="22" alt="Next.js"/><br/>Next.js</td>
+      <td align="center"><img src="./assets/skills/python.svg" width="22" height="22" alt="Python"/><br/>Python</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="./assets/skills/fastapi.svg" width="22" height="22" alt="FastAPI"/><br/>FastAPI</td>
+      <td align="center"><img src="./assets/skills/supabase.svg" width="22" height="22" alt="Supabase"/><br/>Supabase</td>
+      <td align="center"><img src="./assets/skills/postgresql.svg" width="22" height="22" alt="PostgreSQL"/><br/>PostgreSQL</td>
+    </tr>
+  </table>
 </td>
 <td width="50%" valign="top">
   <a href="https://abhyasexams.in"><img src="./assets/logos/abhyas.webp" height="52" alt="Abhyas"/></a><br/>
@@ -209,7 +239,18 @@ Started freelancing at 19 and delivered four production-ready projects for inter
     <li>Worked on overall platform strategy, backend design, and user experience.</li>
     <li>Supported technical architecture for examination engines and practice modules.</li>
   </ul>
-  React · Python · FastAPI · Supabase · PostgreSQL
+  <table>
+    <tr>
+      <td align="center"><img src="./assets/skills/react.svg" width="22" height="22" alt="React"/><br/>React</td>
+      <td align="center"><img src="./assets/skills/python.svg" width="22" height="22" alt="Python"/><br/>Python</td>
+      <td align="center"><img src="./assets/skills/fastapi.svg" width="22" height="22" alt="FastAPI"/><br/>FastAPI</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="./assets/skills/supabase.svg" width="22" height="22" alt="Supabase"/><br/>Supabase</td>
+      <td align="center"><img src="./assets/skills/postgresql.svg" width="22" height="22" alt="PostgreSQL"/><br/>PostgreSQL</td>
+      <td></td>
+    </tr>
+  </table>
 </td>
 </tr>
 <tr>
@@ -222,7 +263,18 @@ Started freelancing at 19 and delivered four production-ready projects for inter
     <li>Architected patient care workflows, therapist portals, and mobility tracking tools.</li>
     <li>Designed backend services and application integrations.</li>
   </ul>
-  React · FastAPI · Supabase · PostgreSQL
+  <table>
+    <tr>
+      <td align="center"><img src="./assets/skills/react.svg" width="22" height="22" alt="React"/><br/>React</td>
+      <td align="center"><img src="./assets/skills/python.svg" width="22" height="22" alt="Python"/><br/>Python</td>
+      <td align="center"><img src="./assets/skills/fastapi.svg" width="22" height="22" alt="FastAPI"/><br/>FastAPI</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="./assets/skills/supabase.svg" width="22" height="22" alt="Supabase"/><br/>Supabase</td>
+      <td align="center"><img src="./assets/skills/postgresql.svg" width="22" height="22" alt="PostgreSQL"/><br/>PostgreSQL</td>
+      <td></td>
+    </tr>
+  </table>
 </td>
 <td width="50%" valign="top">
   <a href="https://singularisfamilyoffice.com/"><img src="./assets/logos/singularis.webp" height="52" alt="Singularis Wealth"/></a><br/>
@@ -233,7 +285,14 @@ Started freelancing at 19 and delivered four production-ready projects for inter
     <li>Built a high-performance, secure digital experience for wealth management services.</li>
     <li>Designed architecture and user experience for modern family office presentation.</li>
   </ul>
-  Next.js · React · TypeScript · Tailwind CSS
+  <table>
+    <tr>
+      <td align="center"><img src="./assets/skills/nextjs.svg" width="22" height="22" alt="Next.js"/><br/>Next.js</td>
+      <td align="center"><img src="./assets/skills/react.svg" width="22" height="22" alt="React"/><br/>React</td>
+      <td align="center"><img src="./assets/skills/typescript.svg" width="22" height="22" alt="TypeScript"/><br/>TypeScript</td>
+      <td align="center"><img src="./assets/skills/tailwind.svg" width="22" height="22" alt="Tailwind CSS"/><br/>Tailwind</td>
+    </tr>
+  </table>
 </td>
 </tr>
 <tr>
@@ -245,7 +304,13 @@ Started freelancing at 19 and delivered four production-ready projects for inter
   <ul>
     <li>Supported clinic management architecture, patient records, and consultation workflows.</li>
   </ul>
-  React · Supabase · PostgreSQL
+  <table>
+    <tr>
+      <td align="center"><img src="./assets/skills/react.svg" width="22" height="22" alt="React"/><br/>React</td>
+      <td align="center"><img src="./assets/skills/supabase.svg" width="22" height="22" alt="Supabase"/><br/>Supabase</td>
+      <td align="center"><img src="./assets/skills/postgresql.svg" width="22" height="22" alt="PostgreSQL"/><br/>PostgreSQL</td>
+    </tr>
+  </table>
 </td>
 <td width="50%" valign="top">
   <a href="https://swarnmadhuhoney.com/"><img src="./assets/logos/swarn-madhu.webp" height="52" alt="Swarn Madhu"/></a><br/>
@@ -255,7 +320,12 @@ Started freelancing at 19 and delivered four production-ready projects for inter
   <ul>
     <li>Provided technical guidance and infrastructure setup for digital commerce and brand experience.</li>
   </ul>
-  React · Next.js
+  <table>
+    <tr>
+      <td align="center"><img src="./assets/skills/react.svg" width="22" height="22" alt="React"/><br/>React</td>
+      <td align="center"><img src="./assets/skills/nextjs.svg" width="22" height="22" alt="Next.js"/><br/>Next.js</td>
+    </tr>
+  </table>
 </td>
 </tr>
 <tr>
@@ -267,7 +337,13 @@ Started freelancing at 19 and delivered four production-ready projects for inter
   <ul>
     <li>Supported enterprise system design and workflow automation strategies.</li>
   </ul>
-  React · Supabase · Node.js
+  <table>
+    <tr>
+      <td align="center"><img src="./assets/skills/react.svg" width="22" height="22" alt="React"/><br/>React</td>
+      <td align="center"><img src="./assets/skills/nodejs.svg" width="22" height="22" alt="Node.js"/><br/>Node.js</td>
+      <td align="center"><img src="./assets/skills/supabase.svg" width="22" height="22" alt="Supabase"/><br/>Supabase</td>
+    </tr>
+  </table>
 </td>
 <td width="50%" valign="top">
   <a href="https://apitherapyindia.org/"><img src="./assets/logos/apitherapy.webp" height="52" alt="Apitherapy"/></a><br/>
@@ -277,7 +353,12 @@ Started freelancing at 19 and delivered four production-ready projects for inter
   <ul>
     <li>Supported digital platform setup and online healthcare portal development.</li>
   </ul>
-  HTML · CSS · JavaScript
+  <table>
+    <tr>
+      <td align="center"><img src="./assets/skills/react.svg" width="22" height="22" alt="React"/><br/>React</td>
+      <td align="center"><img src="./assets/skills/supabase.svg" width="22" height="22" alt="Supabase"/><br/>Supabase</td>
+    </tr>
+  </table>
 </td>
 </tr>
 <tr>
@@ -289,7 +370,12 @@ Started freelancing at 19 and delivered four production-ready projects for inter
   <ul>
     <li>Supported frontend implementation and digital platform architecture.</li>
   </ul>
-  React · Next.js
+  <table>
+    <tr>
+      <td align="center"><img src="./assets/skills/react.svg" width="22" height="22" alt="React"/><br/>React</td>
+      <td align="center"><img src="./assets/skills/nextjs.svg" width="22" height="22" alt="Next.js"/><br/>Next.js</td>
+    </tr>
+  </table>
 </td>
 <td width="50%" valign="top">
   <strong>PEAKAS</strong> · Freelance<br/>
@@ -300,7 +386,14 @@ Started freelancing at 19 and delivered four production-ready projects for inter
     <li>Developed admin dashboard and integrated traffic/click tracking.</li>
     <li>Integrated frontend and backend to translate client requirements to production.</li>
   </ul>
-  React · Supabase
+  <table>
+    <tr>
+      <td align="center"><img src="./assets/skills/react.svg" width="22" height="22" alt="React"/><br/>React</td>
+      <td align="center"><img src="./assets/skills/typescript.svg" width="22" height="22" alt="TypeScript"/><br/>TypeScript</td>
+      <td align="center"><img src="./assets/skills/tailwind.svg" width="22" height="22" alt="Tailwind CSS"/><br/>Tailwind</td>
+      <td align="center"><img src="./assets/skills/supabase.svg" width="22" height="22" alt="Supabase"/><br/>Supabase</td>
+    </tr>
+  </table>
 </td>
 </tr>
 <tr>
@@ -314,7 +407,18 @@ Started freelancing at 19 and delivered four production-ready projects for inter
     <li>Generated top 10 most/least-viewed videos analytics.</li>
     <li>Implemented API-cost optimization using multiple user-provided API keys.</li>
   </ul>
-  React · Python · yt-dlp · YouTube Data API
+  <table>
+    <tr>
+      <td align="center"><img src="./assets/skills/react.svg" width="22" height="22" alt="React"/><br/>React</td>
+      <td align="center"><img src="./assets/skills/typescript.svg" width="22" height="22" alt="TypeScript"/><br/>TypeScript</td>
+      <td align="center"><img src="./assets/skills/python.svg" width="22" height="22" alt="Python"/><br/>Python</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="./assets/skills/ytdlp.svg" width="22" height="22" alt="yt-dlp"/><br/>yt-dlp</td>
+      <td align="center"><img src="./assets/skills/youtube.svg" width="22" height="22" alt="YouTube Data API"/><br/>YouTube API</td>
+      <td></td>
+    </tr>
+  </table>
 </td>
 <td width="50%" valign="top">
   <strong><a href="https://devpost.com/software/feverease-connecting-patients-to-care-through-ai">FeverEase</a></strong> · Hackathon<br/>
@@ -325,7 +429,20 @@ Started freelancing at 19 and delivered four production-ready projects for inter
     <li>Developed doctor discovery, appointment flow, and video consultation prototypes.</li>
     <li>Integrated medical report analysis.</li>
   </ul>
-  React · Google Gemini API · Render
+  <table>
+    <tr>
+      <td align="center"><img src="./assets/skills/react.svg" width="22" height="22" alt="React"/><br/>React</td>
+      <td align="center"><img src="./assets/skills/typescript.svg" width="22" height="22" alt="TypeScript"/><br/>TypeScript</td>
+      <td align="center"><img src="./assets/skills/python.svg" width="22" height="22" alt="Python"/><br/>Python</td>
+      <td align="center"><img src="./assets/skills/fastapi.svg" width="22" height="22" alt="FastAPI"/><br/>FastAPI</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="./assets/skills/supabase.svg" width="22" height="22" alt="Supabase"/><br/>Supabase</td>
+      <td align="center"><img src="./assets/skills/gemini.svg" width="22" height="22" alt="Gemini"/><br/>Gemini</td>
+      <td align="center"><img src="./assets/skills/render.svg" width="22" height="22" alt="Render"/><br/>Render</td>
+      <td></td>
+    </tr>
+  </table>
 </td>
 </tr>
 </table>
@@ -347,13 +464,12 @@ Secured 2nd place among 95 participants. Also received Most Liked LinkedIn Post 
 | | |
 | --- | --- |
 | **Projects** | 27 public repositories |
-| **Contributions** | 1,121 |
+| **Contributions** | 1,122 |
 | **Last 365 days** | 1,013 |
+| **2024** | 72 |
+| **2025** | 213 |
+| **2026** | 837 |
 | **Started on** | 28 Aug 2024 |
 | **Highest in a day** | 95 contributions (7 Jun 2026) |
 | **Longest streak** | 7 days |
 | **Active days** | 155 |
-
-B.Tech CSE — Robotics @ Garden City University, Bengaluru.
-
-[Portfolio](https://northnode.live/eswar-n) · [NorthNode](https://northnode.live) · [LinkedIn](https://www.linkedin.com/in/eswar-n-86b862311/) · [Email](mailto:nalamalaeswar@gmail.com)
