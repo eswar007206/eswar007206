@@ -1,79 +1,374 @@
+<table>
+<tr>
+<td width="38%" valign="top">
+  <img src="./assets/eswar.png" width="280" alt="Eswar N"/>
+  <br/><br/>
+  <a href="mailto:nalamalaeswar@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" height="36" alt="Email"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/eswar-n-86b862311/"><img src="https://img.icons8.com/color/48/linkedin.png" height="36" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="https://github.com/eswar007206"><img src="https://img.icons8.com/color/48/github--v1.png" height="36" alt="GitHub"/></a>
+  &nbsp;
+  <a href="tel:+916303392391"><img src="https://img.icons8.com/color/48/apple-phone.png" height="36" alt="Phone"/></a>
+  <br/><br/>
+  <blockquote>
+    <p><strong>INTERESTING FACT</strong></p>
+    <p><em>“Founded NorthNode Technologies as Founder &amp; CEO. At 19, I started freelancing and sent around 8,000–10,000 cold emails, messages, and calls before successfully delivering projects for international clients.”</em></p>
+  </blockquote>
+</td>
+<td valign="top">
+
 # Eswar N
 
-**System Designer · Backend Architect**  
-Founder & CEO of [NorthNode](https://northnode.live)
+**FOUNDER &amp; CEO · SYSTEM DESIGNER · BACKEND ARCHITECT**
 
-I love doing system design. Architecture, data flow, APIs, databases, how a backend holds up in production — that's the work I want to own before anything ships. I founded NorthNode, and I design the systems behind every product we build.
+> “Pressure is a privilege.”
 
-At 19 I started freelancing. I sent around 8,000–10,000 cold emails, messages, and calls, then delivered production work for international clients, including Japan. I interned as a Full Stack Engineer at Nerds & Geeks on AR indoor navigation. That path — client delivery, then architecture — is what I still do every day.
+## About
 
-[Portfolio](https://northnode.live/eswar-n) · [LinkedIn](https://www.linkedin.com/in/eswar-n/) · [Email](mailto:nalamalaeswar@gmail.com) · [Instagram](https://www.instagram.com/eswar_sonu)
+Software engineer specializing in **system design** and **backend architecture building**, with strong full-stack and AI product experience. Founder &amp; CEO of [NorthNode](https://northnode.live), working across products like EduXam, GamifyTL, ABHYAS, and other technology initiatives. Experienced in designing scalable systems and delivering production-ready solutions for international clients across EdTech, SaaS, and other domains.
 
----
+I love doing system design — architecture, data flow, APIs, databases, and backends that hold up in production.
 
-### Experience
+## Areas of Expertise
 
-**Founder & CEO · [NorthNode Technologies](https://northnode.live)**  
-2026 – Present · Bengaluru  
-I lead product strategy and system design across EdTech, SaaS, and healthcare. I architect the backend and the overall system for every NorthNode product we ship.
+`System Design` `Scalable Backend Architecture` `Backend Architecture Building` `API Architecture` `Database Architecture` `Full-Stack Engineering` `AI-powered Applications` `EdTech Platforms` `SaaS Products` `Product Engineering` `Technical Problem Solving`
 
-**Full Stack Engineer · Nerds & Geeks Pvt Ltd**  
-Sep 2025 – Jun 2026 · Bengaluru  
-Worked on an AR-based indoor navigation product — development and implementation of the application.
-
-**Freelance Full-Stack Developer · International clients**  
-2023 – Present  
-Four production-ready projects for clients abroad, including a real-estate bidding platform for a Japan client. Websites, PWAs, data systems — from requirements to delivery.
+</td>
+</tr>
+</table>
 
 ---
 
-### Products I architect
+## Tech Stack
 
-I design the system for NorthNode's products. The full lineup is on [northnode.live](https://northnode.live/products/).
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Product | What I designed |
-| --- | --- |
-| [EduXam](https://eduxam.in) | Examination platform — create, conduct, evaluate, analyze. AI evaluation, academic workflows, recruiter-facing data. |
-| [GamifyTL](https://gamibar.com) | Live classroom platform — quizzes, games, and session tools teachers can run in minutes. |
-| [EduTrack](https://edutrackonline.online) | University student workspace — coursework, exam practice, academic tracking, campus tools. |
-| [Abhyas](https://abhyasexams.in) | Competitive exam practice system — mock tests, analytics, structured preparation. |
+**Languages**
 
-I've also led system design for NorthNode client platforms, including PhysioFlex Studio, Singularis Wealth, and GCU Physiocare.
+<img src="./assets/skills/python.svg" height="22" alt="Python"/> Python
+&nbsp;
+<img src="./assets/skills/javascript.svg" height="22" alt="JavaScript"/> JavaScript
+&nbsp;
+<img src="./assets/skills/typescript.svg" height="22" alt="TypeScript"/> TypeScript
+<br/>
+<img src="./assets/skills/c.svg" height="22" alt="C"/> C
+&nbsp;
+<img src="./assets/skills/cpp.svg" height="22" alt="C++"/> C++
+
+</td>
+<td width="50%" valign="top">
+
+**Frontend**
+
+<img src="./assets/skills/react.svg" height="22" alt="React"/> React
+&nbsp;
+<img src="./assets/skills/nextjs.svg" height="22" alt="Next.js"/> Next.js
+&nbsp;
+<img src="./assets/skills/react.svg" height="22" alt="React Native"/> React Native
+<br/>
+<img src="./assets/skills/expo.svg" height="22" alt="Expo"/> Expo
+&nbsp;
+<img src="./assets/skills/html.svg" height="22" alt="HTML"/> HTML
+&nbsp;
+<img src="./assets/skills/css.svg" height="22" alt="CSS"/> CSS
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Backend**
+
+<img src="./assets/skills/fastapi.svg" height="22" alt="FastAPI"/> FastAPI
+&nbsp;
+<img src="./assets/skills/nodejs.svg" height="22" alt="Node.js"/> Node.js
+&nbsp;
+<img src="./assets/skills/express.svg" height="22" alt="Express"/> Express
+<br/>
+<img src="./assets/skills/rest-api.svg" height="22" alt="REST APIs"/> REST APIs
+&nbsp;
+<img src="./assets/skills/jwt.svg" height="22" alt="JWT"/> JWT
+
+</td>
+<td width="50%" valign="top">
+
+**Database &amp; Infra**
+
+<img src="./assets/skills/postgresql.svg" height="22" alt="PostgreSQL"/> PostgreSQL
+&nbsp;
+<img src="./assets/skills/supabase.svg" height="22" alt="Supabase"/> Supabase
+&nbsp;
+<img src="./assets/skills/redis.svg" height="22" alt="Redis"/> Redis
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**AI / ML**
+
+<img src="./assets/skills/gemini.svg" height="22" alt="Google Gemini API"/> Google Gemini API
+&nbsp;
+<img src="./assets/skills/openai.svg" height="22" alt="OpenAI APIs"/> OpenAI APIs
+<br/>
+<img src="./assets/skills/mistral.svg" height="22" alt="Mistral API"/> Mistral API
+&nbsp;
+<img src="./assets/skills/rasa.svg" height="22" alt="Rasa"/> Rasa
+<br/>
+<img src="./assets/skills/llm.svg" height="22" alt="LLM Integrations"/> LLM Integrations
+&nbsp;
+<img src="./assets/skills/ml.svg" height="22" alt="Machine Learning"/> Machine Learning
+
+</td>
+<td width="50%" valign="top">
+
+**Other**
+
+<img src="./assets/skills/git.svg" height="22" alt="Git"/> Git
+&nbsp;
+<img src="./assets/skills/github.svg" height="22" alt="GitHub"/> GitHub
+&nbsp;
+<img src="./assets/skills/razorpay.svg" height="22" alt="Razorpay"/> Razorpay
+<br/>
+<img src="./assets/skills/youtube.svg" height="22" alt="YouTube Data API"/> YouTube Data API
+&nbsp;
+<img src="./assets/skills/ytdlp.svg" height="22" alt="yt-dlp"/> yt-dlp
+<br/>
+<img src="./assets/skills/render.svg" height="22" alt="Render"/> Render
+&nbsp;
+<img src="./assets/skills/hls.svg" height="22" alt="HLS"/> HLS
+
+</td>
+</tr>
+</table>
 
 ---
 
-### Tech
+## Professional Experience
+
+### Founder &amp; CEO · [NorthNode Technologies](https://northnode.live)
+**2026 – Present**
+
+Founded and led NorthNode while building multiple products across EdTech, AI, and SaaS. Combined product strategy, system design, and hands-on engineering to turn ideas into working technology products. Led technical/product direction for EduXam, GamifyTL, ABHYAS, and PhysioFlex Studio.
+
+### Full Stack Engineer · Nerds &amp; Geeks Pvt Ltd
+**Sep 2025 – Jun 2026** · Bengaluru, Karnataka, India
+
+Worked as a Full Stack Developer on an AR-based indoor navigation project, contributing to the development and implementation of the application.
+
+### Freelance Full-Stack Developer · International Clients
+**2023 – Present**
+
+Started freelancing at 19 and delivered four production-ready projects for international clients, including clients from Japan. Worked across websites, real-estate platforms, data-scraping systems, and PWAs, handling client requirements, development, integrations, and delivery.
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://eduxam.in"><img src="./assets/logos/eduxam.webp" height="52" alt="EduXam"/></a><br/>
+  <strong><a href="https://eduxam.in">EduXam</a></strong> · NorthNode Product<br/>
+  AI-powered Examination &amp; Academic Intelligence Platform<br/>
+  <em>Founder &amp; CEO / Product Lead</em>
+  <ul>
+    <li>Designed the overall product architecture and built full-stack functionality.</li>
+    <li>Designed online examination workflows and integrated AI-powered evaluation.</li>
+    <li>Worked on career guidance, verified student skill profiles, and recruiter workflows.</li>
+    <li>Designed backend and infrastructure architecture.</li>
+  </ul>
+  React · Next.js · Python · FastAPI · Supabase · PostgreSQL · Redis · AI / LLM APIs
+</td>
+<td width="50%" valign="top">
+  <a href="https://gamibar.com"><img src="./assets/logos/gamifytl.webp" height="52" alt="GamifyTL"/></a><br/>
+  <strong><a href="https://gamibar.com">GamifyTL</a></strong> · NorthNode Product<br/>
+  Gamified Classroom &amp; Live Session Platform<br/>
+  <em>Founder &amp; CEO / Product &amp; Technical Lead</em>
+  <ul>
+    <li>Designed the product concept and interactive classroom experiences.</li>
+    <li>Built gamified games and session tools for teachers, speakers, and learners.</li>
+    <li>Worked on UI/UX, designed application architecture, and developed the platform.</li>
+  </ul>
+  React · JavaScript · Supabase
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://edutrackonline.online"><img src="./assets/logos/edutrack.webp" height="52" alt="EduTrack"/></a><br/>
+  <strong><a href="https://edutrackonline.online">EduTrack</a></strong> · NorthNode Product<br/>
+  University Productivity Platform<br/>
+  <em>Founder / System Architect</em>
+  <ul>
+    <li>Architected student workspace, campus tools, and academic tracking engines.</li>
+    <li>Designed schedule management and student productivity workflows.</li>
+  </ul>
+  React · Next.js · FastAPI · Supabase · PostgreSQL
+</td>
+<td width="50%" valign="top">
+  <a href="https://abhyasexams.in"><img src="./assets/logos/abhyas.webp" height="52" alt="Abhyas"/></a><br/>
+  <strong><a href="https://abhyasexams.in">Abhyas</a></strong> · NorthNode Product<br/>
+  Flagship Education Platform &amp; Learning System<br/>
+  <em>Founder &amp; CEO / System Designer</em>
+  <ul>
+    <li>Worked on overall platform strategy, backend design, and user experience.</li>
+    <li>Supported technical architecture for examination engines and practice modules.</li>
+  </ul>
+  React · Python · FastAPI · Supabase · PostgreSQL
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <img src="./assets/logos/physioflex.webp" height="52" alt="PhysioFlex Studio"/><br/>
+  <strong>PhysioFlex Studio</strong> · NorthNode Product<br/>
+  Healthcare &amp; Physiotherapy Technology Platform<br/>
+  <em>Founder &amp; CEO / Technical Lead</em>
+  <ul>
+    <li>Architected patient care workflows, therapist portals, and mobility tracking tools.</li>
+    <li>Designed backend services and application integrations.</li>
+  </ul>
+  React · FastAPI · Supabase · PostgreSQL
+</td>
+<td width="50%" valign="top">
+  <img src="./assets/logos/singularis.webp" height="52" alt="Singularis Wealth"/><br/>
+  <strong>Singularis Wealth</strong> · NorthNode Product<br/>
+  Wealth &amp; Financial Services Digital Platform<br/>
+  <em>Founder &amp; CEO / System Architect</em>
+  <ul>
+    <li>Built a high-performance, secure digital experience for wealth management services.</li>
+    <li>Designed architecture and user experience for modern family office presentation.</li>
+  </ul>
+  Next.js · React · TypeScript · Tailwind CSS
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <img src="./assets/logos/gcu-physiocare.webp" height="52" alt="GCU Physiocare"/><br/>
+  <strong>GCU Physiocare</strong> · NorthNode Product<br/>
+  University Physiotherapy &amp; Wellness Platform<br/>
+  <em>Founder &amp; CEO / System Architect</em>
+  <ul>
+    <li>Supported clinic management architecture, patient records, and consultation workflows.</li>
+  </ul>
+  React · Supabase · PostgreSQL
+</td>
+<td width="50%" valign="top">
+  <img src="./assets/logos/swarn-madhu.webp" height="52" alt="Swarn Madhu"/><br/>
+  <strong>Swarn Madhu</strong> · NorthNode Product<br/>
+  Health &amp; Wellness Digital Ecosystem<br/>
+  <em>Founder &amp; CEO / Architecture Support</em>
+  <ul>
+    <li>Provided technical guidance and infrastructure setup for digital commerce and brand experience.</li>
+  </ul>
+  React · Next.js
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <img src="./assets/logos/corp-egro.webp" height="52" alt="Corp Egro"/><br/>
+  <strong>Corp Egro</strong> · NorthNode Product<br/>
+  Enterprise Workflow &amp; Business Modernization<br/>
+  <em>Founder &amp; CEO / Architecture Support</em>
+  <ul>
+    <li>Supported enterprise system design and workflow automation strategies.</li>
+  </ul>
+  React · Supabase · Node.js
+</td>
+<td width="50%" valign="top">
+  <img src="./assets/logos/apitherapy.webp" height="52" alt="Apitherapy"/><br/>
+  <strong>Apitherapy</strong> · NorthNode Product<br/>
+  Healthcare &amp; Bee Therapy Wellness Partnership<br/>
+  <em>Founder &amp; CEO / Technical Advisory</em>
+  <ul>
+    <li>Supported digital platform setup and online healthcare portal development.</li>
+  </ul>
+  HTML · CSS · JavaScript
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <img src="./assets/logos/retirement.webp" height="52" alt="The Retirement Project"/><br/>
+  <strong>The Retirement Project</strong> · NorthNode Product<br/>
+  Purpose-Driven Wellness &amp; Life Planning Platform<br/>
+  <em>Founder &amp; CEO / System Architect</em>
+  <ul>
+    <li>Supported frontend implementation and digital platform architecture.</li>
+  </ul>
+  React · Next.js
+</td>
+<td width="50%" valign="top">
+  <strong>PEAKAS</strong> · Freelance<br/>
+  Real Estate Bidding Platform (Japan)<br/>
+  <em>Full-Stack Developer</em>
+  <ul>
+    <li>Developed property listing system and bidding functionality.</li>
+    <li>Developed admin dashboard and integrated traffic/click tracking.</li>
+    <li>Integrated frontend and backend to translate client requirements to production.</li>
+  </ul>
+  React · Supabase
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <strong>YouTube Data Scraping &amp; Analysis Tool</strong> · Freelance<br/>
+  Data Scraping &amp; Analytics Platform<br/>
+  <em>Full-Stack Developer</em>
+  <ul>
+    <li>Extracted video likes, comments, subscriber data, and captions (export to .md/.csv).</li>
+    <li>Scraped all videos from a channel within a time range (up to 30 days).</li>
+    <li>Generated top 10 most/least-viewed videos analytics.</li>
+    <li>Implemented API-cost optimization using multiple user-provided API keys.</li>
+  </ul>
+  React · Python · yt-dlp · YouTube Data API
+</td>
+<td width="50%" valign="top">
+  <strong>FeverEase</strong> · Hackathon<br/>
+  AI-powered Healthcare Prototype<br/>
+  <em>Selected All-India for the Microlabs Hackathon</em>
+  <ul>
+    <li>Built AI symptom assistant and conversational AI with multilingual voice interaction.</li>
+    <li>Developed doctor discovery, appointment flow, and video consultation prototypes.</li>
+    <li>Integrated medical report analysis.</li>
+  </ul>
+  React · Google Gemini API · Render
+</td>
+</tr>
+</table>
+
+---
+
+## Awards &amp; Achievements
+
+**Microlabs Hackathon** — Top 15 All-India  
+Selected from approximately 200 competing teams across India.
+
+**Microsoft Build with Copilot** — 2nd Place  
+Secured 2nd place among 95 participants. Also received Most Liked LinkedIn Post recognition at the event.
+
+---
+
+## GitHub Stats
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,fastapi,postgres,supabase,redis,cpp&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,fastapi,postgres,supabase,redis,cpp&theme=light" />
-    <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,fastapi,postgres,supabase,redis,cpp&theme=dark" alt="Python, JavaScript, TypeScript, React, Next.js, Node.js, Express, FastAPI, PostgreSQL, Supabase, Redis, C++" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eswar007206&theme=github_dark"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eswar007206&theme=default"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eswar007206&theme=github_dark" alt="GitHub stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eswar007206&theme=github_dark"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eswar007206&theme=default"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eswar007206&theme=github_dark" alt="Productive time"/>
   </picture>
 </p>
-
-Python, TypeScript, React / Next.js, FastAPI, Node, PostgreSQL, Supabase, Redis. React Native when it's mobile. System design first, then the stack.
-
----
-
-### Stats
 
 <p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eswar007206&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eswar007206&theme=default" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eswar007206&theme=github_dark" alt="GitHub stats" />
-  </picture>
-  &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eswar007206&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eswar007206&theme=default" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eswar007206&theme=github_dark" alt="Top languages" />
-  </picture>
+  <img src="https://ghchart.rshah.org/3fb950/eswar007206" alt="GitHub contribution graph"/>
 </p>
-
----
 
 B.Tech CSE — Robotics @ Garden City University, Bengaluru.
 
-Microlabs Hackathon — Top 15 All-India. Microsoft Build with Copilot — 2nd place.
+[Portfolio](https://northnode.live/eswar-n) · [NorthNode](https://northnode.live) · [LinkedIn](https://www.linkedin.com/in/eswar-n-86b862311/) · [Email](mailto:nalamalaeswar@gmail.com)
