@@ -176,15 +176,21 @@ Started freelancing at 19 and delivered four production-ready projects for inter
   <table>
     <tr>
       <td align="center"><img src="./assets/skills/react.svg" width="22" height="22" alt="React"/><br/>React</td>
-      <td align="center"><img src="./assets/skills/nextjs.svg" width="22" height="22" alt="Next.js"/><br/>Next.js</td>
+      <td align="center"><img src="./assets/skills/typescript.svg" width="22" height="22" alt="TypeScript"/><br/>TypeScript</td>
+      <td align="center"><img src="./assets/skills/nodejs.svg" width="22" height="22" alt="Node.js"/><br/>Node.js</td>
       <td align="center"><img src="./assets/skills/python.svg" width="22" height="22" alt="Python"/><br/>Python</td>
-      <td align="center"><img src="./assets/skills/fastapi.svg" width="22" height="22" alt="FastAPI"/><br/>FastAPI</td>
     </tr>
     <tr>
+      <td align="center"><img src="./assets/skills/mediapipe.svg" width="22" height="22" alt="MediaPipe"/><br/>MediaPipe</td>
+      <td align="center"><img src="./assets/skills/opencv.svg" width="22" height="22" alt="OpenCV"/><br/>OpenCV</td>
       <td align="center"><img src="./assets/skills/supabase.svg" width="22" height="22" alt="Supabase"/><br/>Supabase</td>
-      <td align="center"><img src="./assets/skills/postgresql.svg" width="22" height="22" alt="PostgreSQL"/><br/>PostgreSQL</td>
       <td align="center"><img src="./assets/skills/redis.svg" width="22" height="22" alt="Redis"/><br/>Redis</td>
-      <td align="center"><img src="./assets/skills/llm.svg" width="22" height="22" alt="LLMs"/><br/>LLMs</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="./assets/skills/gemini.svg" width="22" height="22" alt="Gemini"/><br/>Gemini</td>
+      <td align="center"><img src="./assets/skills/razorpay.svg" width="22" height="22" alt="Razorpay"/><br/>Razorpay</td>
+      <td align="center"><img src="./assets/skills/render.svg" width="22" height="22" alt="Render"/><br/>Render</td>
+      <td></td>
     </tr>
   </table>
 </td>
@@ -201,8 +207,15 @@ Started freelancing at 19 and delivered four production-ready projects for inter
   <table>
     <tr>
       <td align="center"><img src="./assets/skills/react.svg" width="22" height="22" alt="React"/><br/>React</td>
-      <td align="center"><img src="./assets/skills/javascript.svg" width="22" height="22" alt="JavaScript"/><br/>JavaScript</td>
+      <td align="center"><img src="./assets/skills/typescript.svg" width="22" height="22" alt="TypeScript"/><br/>TypeScript</td>
+      <td align="center"><img src="./assets/skills/nodejs.svg" width="22" height="22" alt="Node.js"/><br/>Node.js</td>
       <td align="center"><img src="./assets/skills/supabase.svg" width="22" height="22" alt="Supabase"/><br/>Supabase</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="./assets/skills/gemini.svg" width="22" height="22" alt="Gemini"/><br/>Gemini</td>
+      <td align="center"><img src="./assets/skills/resend.svg" width="22" height="22" alt="Resend"/><br/>Resend</td>
+      <td align="center"><img src="./assets/skills/render.svg" width="22" height="22" alt="Render"/><br/>Render</td>
+      <td></td>
     </tr>
   </table>
 </td>
@@ -220,13 +233,8 @@ Started freelancing at 19 and delivered four production-ready projects for inter
   <table>
     <tr>
       <td align="center"><img src="./assets/skills/react.svg" width="22" height="22" alt="React"/><br/>React</td>
-      <td align="center"><img src="./assets/skills/nextjs.svg" width="22" height="22" alt="Next.js"/><br/>Next.js</td>
-      <td align="center"><img src="./assets/skills/python.svg" width="22" height="22" alt="Python"/><br/>Python</td>
-    </tr>
-    <tr>
-      <td align="center"><img src="./assets/skills/fastapi.svg" width="22" height="22" alt="FastAPI"/><br/>FastAPI</td>
+      <td align="center"><img src="./assets/skills/typescript.svg" width="22" height="22" alt="TypeScript"/><br/>TypeScript</td>
       <td align="center"><img src="./assets/skills/supabase.svg" width="22" height="22" alt="Supabase"/><br/>Supabase</td>
-      <td align="center"><img src="./assets/skills/postgresql.svg" width="22" height="22" alt="PostgreSQL"/><br/>PostgreSQL</td>
     </tr>
   </table>
 </td>
@@ -242,13 +250,9 @@ Started freelancing at 19 and delivered four production-ready projects for inter
   <table>
     <tr>
       <td align="center"><img src="./assets/skills/react.svg" width="22" height="22" alt="React"/><br/>React</td>
-      <td align="center"><img src="./assets/skills/python.svg" width="22" height="22" alt="Python"/><br/>Python</td>
-      <td align="center"><img src="./assets/skills/fastapi.svg" width="22" height="22" alt="FastAPI"/><br/>FastAPI</td>
-    </tr>
-    <tr>
+      <td align="center"><img src="./assets/skills/typescript.svg" width="22" height="22" alt="TypeScript"/><br/>TypeScript</td>
+      <td align="center"><img src="./assets/skills/nodejs.svg" width="22" height="22" alt="Node.js"/><br/>Node.js</td>
       <td align="center"><img src="./assets/skills/supabase.svg" width="22" height="22" alt="Supabase"/><br/>Supabase</td>
-      <td align="center"><img src="./assets/skills/postgresql.svg" width="22" height="22" alt="PostgreSQL"/><br/>PostgreSQL</td>
-      <td></td>
     </tr>
   </table>
 </td>
@@ -257,7 +261,7 @@ Started freelancing at 19 and delivered four production-ready projects for inter
 <td width="50%" valign="top">
   <a href="https://physioflexstudio-website.onrender.com/"><img src="./assets/logos/physioflex.webp" height="52" alt="PhysioFlex Studio"/></a><br/>
   <strong><a href="https://physioflexstudio-website.onrender.com/">PhysioFlex Studio</a></strong> · NorthNode Product<br/>
-  Healthcare &amp; Physiotherapy Technology Platform<br/>
+  Healthcare &amp; Physiotherapy Mobile App (Android &amp; iOS)<br/>
   <em>Founder &amp; CEO / Technical Lead</em>
   <ul>
     <li>Architected patient care workflows, therapist portals, and mobility tracking tools.</li>
@@ -265,13 +269,13 @@ Started freelancing at 19 and delivered four production-ready projects for inter
   </ul>
   <table>
     <tr>
-      <td align="center"><img src="./assets/skills/react.svg" width="22" height="22" alt="React"/><br/>React</td>
-      <td align="center"><img src="./assets/skills/python.svg" width="22" height="22" alt="Python"/><br/>Python</td>
-      <td align="center"><img src="./assets/skills/fastapi.svg" width="22" height="22" alt="FastAPI"/><br/>FastAPI</td>
+      <td align="center"><img src="./assets/skills/react.svg" width="22" height="22" alt="React Native"/><br/>React Native</td>
+      <td align="center"><img src="./assets/skills/expo.svg" width="22" height="22" alt="Expo"/><br/>Expo</td>
+      <td align="center"><img src="./assets/skills/typescript.svg" width="22" height="22" alt="TypeScript"/><br/>TypeScript</td>
     </tr>
     <tr>
+      <td align="center"><img src="./assets/skills/python.svg" width="22" height="22" alt="Python"/><br/>Python</td>
       <td align="center"><img src="./assets/skills/supabase.svg" width="22" height="22" alt="Supabase"/><br/>Supabase</td>
-      <td align="center"><img src="./assets/skills/postgresql.svg" width="22" height="22" alt="PostgreSQL"/><br/>PostgreSQL</td>
       <td></td>
     </tr>
   </table>
@@ -287,10 +291,8 @@ Started freelancing at 19 and delivered four production-ready projects for inter
   </ul>
   <table>
     <tr>
-      <td align="center"><img src="./assets/skills/nextjs.svg" width="22" height="22" alt="Next.js"/><br/>Next.js</td>
       <td align="center"><img src="./assets/skills/react.svg" width="22" height="22" alt="React"/><br/>React</td>
       <td align="center"><img src="./assets/skills/typescript.svg" width="22" height="22" alt="TypeScript"/><br/>TypeScript</td>
-      <td align="center"><img src="./assets/skills/tailwind.svg" width="22" height="22" alt="Tailwind CSS"/><br/>Tailwind</td>
     </tr>
   </table>
 </td>
@@ -307,8 +309,8 @@ Started freelancing at 19 and delivered four production-ready projects for inter
   <table>
     <tr>
       <td align="center"><img src="./assets/skills/react.svg" width="22" height="22" alt="React"/><br/>React</td>
+      <td align="center"><img src="./assets/skills/typescript.svg" width="22" height="22" alt="TypeScript"/><br/>TypeScript</td>
       <td align="center"><img src="./assets/skills/supabase.svg" width="22" height="22" alt="Supabase"/><br/>Supabase</td>
-      <td align="center"><img src="./assets/skills/postgresql.svg" width="22" height="22" alt="PostgreSQL"/><br/>PostgreSQL</td>
     </tr>
   </table>
 </td>
@@ -323,7 +325,8 @@ Started freelancing at 19 and delivered four production-ready projects for inter
   <table>
     <tr>
       <td align="center"><img src="./assets/skills/react.svg" width="22" height="22" alt="React"/><br/>React</td>
-      <td align="center"><img src="./assets/skills/nextjs.svg" width="22" height="22" alt="Next.js"/><br/>Next.js</td>
+      <td align="center"><img src="./assets/skills/typescript.svg" width="22" height="22" alt="TypeScript"/><br/>TypeScript</td>
+      <td align="center"><img src="./assets/skills/supabase.svg" width="22" height="22" alt="Supabase"/><br/>Supabase</td>
     </tr>
   </table>
 </td>
@@ -340,7 +343,7 @@ Started freelancing at 19 and delivered four production-ready projects for inter
   <table>
     <tr>
       <td align="center"><img src="./assets/skills/react.svg" width="22" height="22" alt="React"/><br/>React</td>
-      <td align="center"><img src="./assets/skills/nodejs.svg" width="22" height="22" alt="Node.js"/><br/>Node.js</td>
+      <td align="center"><img src="./assets/skills/typescript.svg" width="22" height="22" alt="TypeScript"/><br/>TypeScript</td>
       <td align="center"><img src="./assets/skills/supabase.svg" width="22" height="22" alt="Supabase"/><br/>Supabase</td>
     </tr>
   </table>
@@ -356,6 +359,7 @@ Started freelancing at 19 and delivered four production-ready projects for inter
   <table>
     <tr>
       <td align="center"><img src="./assets/skills/react.svg" width="22" height="22" alt="React"/><br/>React</td>
+      <td align="center"><img src="./assets/skills/typescript.svg" width="22" height="22" alt="TypeScript"/><br/>TypeScript</td>
       <td align="center"><img src="./assets/skills/supabase.svg" width="22" height="22" alt="Supabase"/><br/>Supabase</td>
     </tr>
   </table>
@@ -373,7 +377,7 @@ Started freelancing at 19 and delivered four production-ready projects for inter
   <table>
     <tr>
       <td align="center"><img src="./assets/skills/react.svg" width="22" height="22" alt="React"/><br/>React</td>
-      <td align="center"><img src="./assets/skills/nextjs.svg" width="22" height="22" alt="Next.js"/><br/>Next.js</td>
+      <td align="center"><img src="./assets/skills/typescript.svg" width="22" height="22" alt="TypeScript"/><br/>TypeScript</td>
     </tr>
   </table>
 </td>
@@ -433,14 +437,12 @@ Started freelancing at 19 and delivered four production-ready projects for inter
     <tr>
       <td align="center"><img src="./assets/skills/react.svg" width="22" height="22" alt="React"/><br/>React</td>
       <td align="center"><img src="./assets/skills/typescript.svg" width="22" height="22" alt="TypeScript"/><br/>TypeScript</td>
-      <td align="center"><img src="./assets/skills/python.svg" width="22" height="22" alt="Python"/><br/>Python</td>
-      <td align="center"><img src="./assets/skills/fastapi.svg" width="22" height="22" alt="FastAPI"/><br/>FastAPI</td>
+      <td align="center"><img src="./assets/skills/rasa.svg" width="22" height="22" alt="Rasa"/><br/>Rasa</td>
     </tr>
     <tr>
-      <td align="center"><img src="./assets/skills/supabase.svg" width="22" height="22" alt="Supabase"/><br/>Supabase</td>
+      <td align="center"><img src="./assets/skills/llm.svg" width="22" height="22" alt="LLMs"/><br/>LLMs</td>
+      <td align="center"><img src="./assets/skills/ml.svg" width="22" height="22" alt="ML"/><br/>ML</td>
       <td align="center"><img src="./assets/skills/gemini.svg" width="22" height="22" alt="Gemini"/><br/>Gemini</td>
-      <td align="center"><img src="./assets/skills/render.svg" width="22" height="22" alt="Render"/><br/>Render</td>
-      <td></td>
     </tr>
   </table>
 </td>
