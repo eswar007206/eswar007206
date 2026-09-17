@@ -466,6 +466,7 @@ Secured 2nd place among 95 participants. Also received Most Liked LinkedIn Post 
 
 ---
 
+<!-- github-stats:start -->
 ## GitHub Stats
 
 | | |
@@ -479,4 +480,5 @@ Secured 2nd place among 95 participants. Also received Most Liked LinkedIn Post 
 | **Started on** | 28 Aug 2024 |
 | **Highest in a day** | 95 contributions (7 Jun 2026) |
 | **Longest streak** | 7 days |
-| **Active days** | 155 |
+| **Active days** | 156 |
+<!-- github-stats:end -->
