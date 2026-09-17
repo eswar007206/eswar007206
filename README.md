@@ -3,13 +3,13 @@
 <td width="38%" valign="top">
   <img src="./assets/eswar.png" width="280" alt="Eswar N"/>
   <br/><br/>
-  <a href="mailto:nalamalaeswar@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" height="36" alt="Email"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nalamalaeswar@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" height="36" width="36" alt="Email"/></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/eswar-n-86b862311/"><img src="https://img.icons8.com/color/48/linkedin.png" height="36" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/eswar-n-86b862311/"><img src="https://img.icons8.com/color/48/linkedin.png" height="36" width="36" alt="LinkedIn"/></a>
   &nbsp;
-  <a href="https://github.com/eswar007206"><img src="https://img.icons8.com/color/48/github--v1.png" height="36" alt="GitHub"/></a>
+  <a href="https://github.com/eswar007206"><img src="https://img.icons8.com/color/48/github--v1.png" height="36" width="36" alt="GitHub"/></a>
   &nbsp;
-  <a href="tel:+916303392391"><img src="https://img.icons8.com/color/48/apple-phone.png" height="36" alt="Phone"/></a>
+  <a href="https://wa.me/916303392391"><img src="https://img.icons8.com/color/48/whatsapp.png" height="36" width="36" alt="WhatsApp"/></a>
   <br/><br/>
   <blockquote>
     <p><strong>INTERESTING FACT</strong></p>
