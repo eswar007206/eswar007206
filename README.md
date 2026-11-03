@@ -473,7 +473,7 @@ Secured 2nd place among 95 participants. Also received Most Liked LinkedIn Post 
 | --- | --- |
 | **Projects** | 27 public repositories |
 | **Contributions** | 1,340 |
-| **Last 365 days** | 1,168 |
+| **Last 365 days** | 1,153 |
 | **2024** | 72 |
 | **2025** | 213 |
 | **2026** | 1,055 |
